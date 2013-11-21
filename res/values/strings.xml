@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Sistem</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Tekst automatskog odgovora na primeljni SMS</string>
+    <string name="button_function">Uključi/isključi slanje odgovora</string>
+    <string name="app_title">Sistem za slanje automatskog odgovora</string>
+    <string name="notif_text">Sistem za slanje automatskog odgovora je aktivan!</string>
+     <string name="notif_title">SMS Sistem</string>
+    <string name="toast_connection_problem">Došlo je do greške prilikom slanja podataka na server. Proverite Vašu internet konekciju!</string>
+
+</resources>
